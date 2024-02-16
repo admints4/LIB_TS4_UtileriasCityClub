@@ -1,0 +1,6 @@
+logging:
+  level:
+    org.apache: ERROR
+    org.springframework: ERROR
+    io.opentelemetry.exporter.internal.grpc: ERROR
+    org.springframework.web.servlet.DispatcherServlet: ERROR
